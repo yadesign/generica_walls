@@ -1,1 +1,80 @@
-
+{ 
+"wallpapers": 
+	[ 
+		{
+			"author": "Andreas Gucklhorn",
+			"url": "https://raw.githubusercontent.com/yadesign/generica_walls/master/andreas-gucklhorn-unsplash.jpg",
+			"name": "aerial 1"
+		},
+		{
+			"author": "Deva Darshan",
+			"url": "https://raw.githubusercontent.com/yadesign/generica_walls/master/deva-darshan-unsplash.jpg",
+			"name": "aerial 2"
+		},
+		{
+			"author": "Johannes Hofmann",
+			"url": "https://raw.githubusercontent.com/yadesign/generica_walls/master/johannes-hofmann-unsplash.jpg",
+			"name": "aerial 3"
+		},
+		{
+			"author": "Dan Grinwis",
+			"url": "https://raw.githubusercontent.com/yadesign/generica_walls/master/finding-dan-dan-grinwis-unsplash.jpg",
+			"name": "aerial 4"
+		},
+		{
+			"author": "Shaah Shahidh",
+			"url": "https://raw.githubusercontent.com/yadesign/generica_walls/master/shaah-shahidh-unsplash.jpg",
+			"name": "aerial 5"
+		},
+    {
+			"author": "Vanessa Ives",
+			"url": "https://raw.githubusercontent.com/yadesign/generica_walls/master/vanessa-ives-unsplash.jpg",
+			"name": "liquified 1"
+		},
+    {
+			"author": "Nathan Duck",
+			"url": "https://raw.githubusercontent.com/yadesign/generica_walls/master/nathan-duck-unsplash.jpg",
+			"name": "liquified 2"
+		},
+		{
+			"author": "RawPixel",
+			"url": "https://raw.githubusercontent.com/yadesign/generica_walls/master/rawpixel-1-unsplash.jpg",
+			"name": "inkdrop 1"
+		},
+		{
+			"author": "RawPixel",
+			"url": "https://raw.githubusercontent.com/yadesign/generica_walls/master/rawpixel-2-unsplash.jpg",
+			"name": "inkdrop 2"
+		},
+    {
+			"author": "RawPixel",
+			"url": "https://raw.githubusercontent.com/yadesign/generica_walls/master/rawpixel-3-unsplash.jpg",
+			"name": "inkdrop 3"
+		},
+		{
+			"author": "RawPixel",
+			"url": "https://raw.githubusercontent.com/yadesign/generica_walls/master/rawpixel-4-unsplash.jpg",
+			"name": "inkdrop 4"
+		},
+    {
+			"author": "Daniel Olah",
+			"url": "https://raw.githubusercontent.com/yadesign/generica_walls/master/daniel-olah-1-unsplash.jpg",
+			"name": "soap 1"
+		},
+		{
+			"author": "Daniel Olah",
+			"url": "https://raw.githubusercontent.com/yadesign/generica_walls/master/daniel-olah-2-unsplash.jpg",
+			"name": "soap 2"
+		},
+    {
+			"author": "Daniel Olah",
+			"url": "https://raw.githubusercontent.com/yadesign/generica_walls/master/daniel-olah-3-unsplash.jpg",
+			"name": "soap 3"
+		},
+		{
+			"author": "Daniel Olah",
+			"url": "https://raw.githubusercontent.com/yadesign/generica_walls/master/daniel-olah-4-unsplash.jpg",
+			"name": "soap 4"
+		}
+	]
+}
